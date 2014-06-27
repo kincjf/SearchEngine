@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>jQuery Mobile Application</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.css">
+  <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+  <script src="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js"></script>
+
+
+	<style type="text/css"> 
+	.titlename {margin:20px auto; width:100%;text-align:center;position:auto;font-size:42px;}
+	.selectbrowser {margin:20px auto; width:30%;}
+	.call {margin:5px auto; width:13%;}
+	.explain {margin:40px auto;}
+	#id-input {text-align:center; width:100%}
+	#pwd-input {text-align:center; width:100%}
+	#subtitle {margin:0px auto; width:100%;text-align:center;position:auto;}
+	#searchform {margin:10px auto; text-align:center; }
+
+
+	div
+	{
+		text-align:center;
+
+	}
+	input
+	{
+		width:60px;
+		position:center;
+	}
+
+
+#menu{
+	position:fixed;
+	top:0;
+	left:0;
+	height: 20px;
+
+	width: 190%;
+	padding: 0;
+	margin:0;
+}
+#menu li {
+	display:inline-block;
+	margin: 5px;
+	color: #000;
+	background:#fff;
+	background: rgba(255,255,255, 0.5);
+	-webkit-border-radius: 10px; 
+            border-radius: 10px; 
+}
+#menu li.active{
+	background:#666;
+	background: rgba(0,0,0, 0.5);
+	color: #fff;
+}
+#menu li a{
+	text-decoration:none;
+	color: #000;
+}
+#menu li.active a:hover{
+	color: #000;
+}
+#menu li:hover{
+	background: rgba(255,255,255, 0.8);
+}
+#menu li a,
+#menu li.active a{
+	padding: 7px 16px;
+	display:block;
+}
+#menu li.active a{
+	color: #fff;
+}
+</style> 
+
+</head>
+<body>
+    <!-- begin main page -->
+    <div data-role="page">
+        <header class="ui-header ui-header-fullscreen ui-header-fixed slidedown ui-bar-inherit" data-role="header" data-position="fixed" id="header">
+		  <h1>Bigpop</h1>
+		<ul id="menu">
+		    <li class="ui-right-btn"><a href="C:/Users/ljw90_000/Desktop/login.html" id="Login">Login</a></li>
+		    <li class="ui-right-btn"><a href="C:/Users/ljw90_000/Desktop/join.html" id="Join">Join</a></li>
+		</ul>
+		</header>
+        <div class="content" data-role="content">
+			<form id="loginform">
+			  <fieldset>
+				<div class="titlename">BigPop</div><br>
+				<div class="explain">BigPop은 사용자가 만드는 검색 서비스로 누구나 참여하실 수 있습니다.</div>	
+			<div class="ui-grid-b ui-responsive">
+			  <div class="ui-block-a">
+			  </div>
+
+			  <div class="ui-block-b">
+				<input type="text" id="id-input" value="ID">
+				<input type="text" id="pwd-input" value="Password">
+		      </div>
+   
+			  <div class="ui-block-c">
+		      </div>
+			 </div>
+		   </div>
+
+				<div data-role="controlgroup" data-type="horizontal" class="login">
+				<a data-role="button">login</a>
+			</div>
+		  <fieldset>
+		</form>
+	   </div>
+
+
+         <footer class="footer ui-footer ui-footer-fullscreen ui-footer-fixed slideup ui-bar-inherit" data-role="footer" data-fullscreen="true" id="footer">
+		 <h1>Footer</h1>
+		 </footer>
+    </div>
+    <!-- end main page -->
+</body>
+</html>

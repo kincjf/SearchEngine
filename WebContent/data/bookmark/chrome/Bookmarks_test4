@@ -1,0 +1,78 @@
+{
+   "checksum": "8028b648c0cf81d2335d1200cfc07f49",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13031628494598255",
+            "id": "4",
+            "name": "Chrome",
+            "type": "url",
+            "url": "https://accounts.google.com/ServiceLogin?service=chromiumsync&sarp=1&continue=https%3A%2F%2Fwww.google.com%2Fintl%2Fko%2Fchrome%2Fblank.html%3Fsource%3D0"
+         }, {
+            "date_added": "13031630472507962",
+            "id": "5",
+            "name": "World Wide Web Consortium (W3C)",
+            "type": "url",
+            "url": "http://www.w3.org/"
+         }, {
+            "date_added": "13031844699379552",
+            "id": "6",
+            "name": "dailymotion - Google \uAC80\uC0C9",
+            "type": "url",
+            "url": "https://www.google.co.kr/search?q=dailymotion&oq=da&aqs=chrome.2.69i57j0l5.2611j0j8&sourceid=chrome&espv=210&es_sm=93&ie=UTF-8"
+         }, {
+            "date_added": "13031844712399552",
+            "id": "7",
+            "name": "\uD3EC\uD1A0 | Daum \uBBF8\uB514\uC5B4\uB2E4\uC74C",
+            "type": "url",
+            "url": "http://media.daum.net/photo/5699#20131218210906841"
+         }, {
+            "date_added": "13031845102749688",
+            "id": "8",
+            "name": "\uD30C\uC77C \uC804\uC1A1 \uD14C\uC2A4\uD2B8 - \uD30C\uC77C \uC804\uC1A1 \uD14C\uC2A4\uD2B8",
+            "type": "url",
+            "url": "http://127.0.0.1:8080/SearchEngine/fileUploadTest.jsp"
+         }, {
+            "date_added": "13031845128813688",
+            "id": "9",
+            "name": "\uD06C\uB86C\uBD81 \uC0AC\uC6A9\uC790 \uBAA8\uC784 : \uB124\uC774\uBC84 \uCE74\uD398",
+            "type": "url",
+            "url": "http://cafe.naver.com/chromebookpixel"
+         }, {
+            "date_added": "13031860332168103",
+            "id": "10",
+            "name": "[\uD140\uC988] extension ; \uD655\uC7A5\uC790 / \uD655\uC7A5\uD310",
+            "type": "url",
+            "url": "http://www.terms.co.kr/extension.htm"
+         }, {
+            "date_added": "13031860337504103",
+            "id": "11",
+            "name": "[\uD140\uC988] \uD30C\uC77C \uD655\uC7A5\uC790 \uBAA9\uB85D",
+            "type": "url",
+            "url": "http://www.terms.co.kr/filename-extensions.htm"
+         } ],
+         "date_added": "12998577869499569",
+         "date_modified": "13031860337504103",
+         "id": "1",
+         "name": "\uBD81\uB9C8\uD06C\uBC14",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "12998577869499569",
+         "date_modified": "0",
+         "id": "2",
+         "name": "\uAE30\uD0C0 \uBD81\uB9C8\uD06C",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "12998577869499569",
+         "date_modified": "0",
+         "id": "3",
+         "name": "\uBAA8\uBC14\uC77C \uBD81\uB9C8\uD06C",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

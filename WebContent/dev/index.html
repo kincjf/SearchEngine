@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BigPop - 북마크 기반 검색 시스템</title>
+<link rel="stylesheet" href="./css/themes/Bootstrap.css">
+<link rel="stylesheet"
+	href="http://code.jquery.com/mobile/1.4.0/jquery.mobile.structure-1.4.0.min.css" />
+<link rel="stylesheet" href="./css/themes/jquery.mobile.icons.min.css" />
+<script src="http://code.jquery.com/jquery-1.11.0.min.js""></script>
+<script
+	src="http://code.jquery.com/mobile/1.4.0/jquery.mobile-1.4.0.min.js"></script>
+<script src="http://malsup.github.com/jquery.form.js"></script>
+<script src="./js/common.js"></script>
+<script src="./js/searching.js"></script>
+<script src="./js/indexing.js"></script>
+</head>
+<body>
+	<div data-role="page" data-theme="a" id="main_page">
+		<div data-role="header" data-position="inline">
+			<a href="addbookmark.html" data-icon="check" data-theme="c">북마크
+				등록</a>
+			<h1>북마크 기반 검색 시스템</h1>
+			<a href="join.html" data-icon="check" data-theme="d">Join</a>
+		</div>
+		<br />
+		<div data-role="content" data-theme="a">
+
+			<a
+				href="https://github.com/kincjf/SearchEngine.git"
+				data-role="button" data-icon="star">BigPop?</a>
+
+			<div data-role="fieldcontain" data-theme="e">
+				<input type="search" name="password" id="query" value=""
+					placeholder="검색해보세요!" /> <br /> <a href="#" data-role="button"
+					data-theme="b" data-icon="search" id="search_start">검색하기!</a>
+			</div>
+			<br />
+
+			<div data-role="content" data-theme="a" id="search_result_container">
+			</div>
+		</div>
+		<footer class="ui-footer-fullscreen ui-footer-fixed"
+			data-role="footer" data-fullscreen="true">
+			<h1>copyright - kimseonho, limjiwoo | 2014.06.25</h1>
+		</footer>
+	</div>
+	<script>
+		$(document).ready(function() {
+			$('#search_start').bind("click", function() {
+				getSearchList();
+			});
+		});
+	</script>
+</body>
+</html>

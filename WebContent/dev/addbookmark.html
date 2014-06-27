@@ -1,0 +1,104 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BigPop - 북마크 기반 검색 시스템 : 북마크 추가</title>
+<link rel="stylesheet" href="./css/themes/Bootstrap.css">
+<link rel="stylesheet"
+	href="http://code.jquery.com/mobile/1.4.0/jquery.mobile.structure-1.4.0.min.css" />
+<link rel="stylesheet" href="./css/themes/jquery.mobile.icons.min.css" />
+<link rel="stylesheet" href="./css/custom.css" />
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script
+	src="http://code.jquery.com/mobile/1.4.0/jquery.mobile-1.4.0.min.js"></script>
+</head>
+<body>
+	<!-- Indexing Form -->
+	<div data-role="page" data-theme="a" id="indexing_form">
+		<script>
+		// jQuery Mobile은 data-role="page"에 대하여 ajax로 로딩되기 때문에 page 안에 넣어줘야 됨.
+			// wait for the DOM to be loaded 
+			$(document).ready(function() {
+				var message = $("#message").hide();
+				var fileFormOption = {
+						beforeSend : function(jqXHR, setting) {
+							clearList($('.messageContainer'));
+							message.show().html("잠시 기다려 주세요...");
+							$("#file_form_btn").hide();
+						},
+						success : function(data, textStatus, jqXHR) {
+							message.html("북마크 등록이 완료되었습니다.");
+							addIndexResultList(JSON.parse(data));
+
+							$('.messageContainer').trigger('create');
+							console.log(data);
+						},
+						complete : function(jqXHR, textStatus) {
+							console.log(textStatus);
+							$("#file_form_btn").show();
+						},
+						error : function(jqXHR, textStatus, errorThrown) {
+							$("#message").html("북마크 등록 실패").append(
+									"<font color='green'>"
+									+ JSON.parse(textStatus).responseText
+									+ "</font>");
+						}
+					};
+				// bind 'myForm' and provide a simple callback function 
+				$('#file_form').ajaxForm(fileFormOption);
+			});
+		</script>
+		<div data-role="header" data-position="inline">
+			<a href="index.html" data-icon="check" data-theme="c">검색하기</a>
+			<h1>북마크 기반 검색 시스템</h1>
+			<a href="join.html" data-icon="check" data-theme="d">Join</a>
+		</div>
+		<br />
+		<div data-role="content" data-theme="a">
+
+			<a href="#" data-role="button" data-icon="star">등록할 북마크 종류와 파일을
+				선택해주세요</a>
+
+			<div data-role="fieldcontain">
+				<label for="select-choice-a" class="select">북마크 파일 종류</label> <select
+					name="select-choice-a" id="select-choice-a"
+					data-native-menu="false">
+					<option>Bookmark Type</option>
+					<option value="IE">Internet Explorer</option>
+					<option value="CHROME">Chrome, Chromium</option>
+					<option value="FIREFOX">Firefox</option>
+					<option value="SAFARI">Safari</option>
+				</select>
+			</div>
+			<form id="file_form" action="/SearchEngine/indexAction.if"
+				enctype="multipart/form-data" method="post">
+				<div data-role="fieldcontain">
+					<label for="TEMPLATE_FILE">북마크 파일</label><input type="file"
+						name="TEMPLATE_FILE" />
+				</div>
+				<div data-role="fieldcontain">
+					<label for="CONTRIBUTOR">CONTRIBUTOR</label> <input type="text"
+						name="CONTRIBUTOR" />
+				</div>
+				<div data-role="fieldcontain" id="file_form_btn">
+					<input type="submit" value="전송" />
+				</div>
+			</form>
+			<br /> <a id="message" data-role="button" data-theme="d"
+				data-icon="info">message</a>
+
+			<div class="messageContainer"></div>
+			<!-- <ul data-role="listview" data-inset="true" data-divider-theme="b">
+					<li data-role="list-divider">Swatch B</li>
+					<li data-icon="info"><a href="">A list item</a></li>
+			</ul> -->
+		</div>
+
+		<footer class="ui-footer-fullscreen ui-footer-fixed"
+			data-role="footer" data-fullscreen="true">
+			<h1>copyright - kimseonho, limjiwoo | 2014.06.25</h1>
+		</footer>
+	</div>
+</body>
+</html>
