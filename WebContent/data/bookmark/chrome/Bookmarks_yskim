@@ -1,0 +1,903 @@
+{
+   "checksum": "b400f2e48c15757058c02678e7a28908",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13022523262557277",
+            "id": "5",
+            "name": "\uCEF4\uD4E8\uD130\uACF5\uD559\uACFC",
+            "type": "url",
+            "url": "http://cse.jbnu.ac.kr/"
+         }, {
+            "date_added": "13015950909093730",
+            "id": "6",
+            "name": "\uC804\uBD81\uB300",
+            "type": "url",
+            "url": "http://chonbuk.ac.kr/bb/board.php?pageKey=23&boardID=K_PUBLIC"
+         }, {
+            "date_added": "13015950909094730",
+            "id": "7",
+            "name": "Google \uBC88\uC5ED",
+            "type": "url",
+            "url": "http://translate.google.com/"
+         }, {
+            "date_added": "13015950909095730",
+            "id": "8",
+            "name": "\uC194\uB8E8\uC158",
+            "type": "url",
+            "url": "http://cafe.naver.com/whduddn0317.cafe"
+         }, {
+            "children": [ {
+               "date_added": "13022523262580277",
+               "id": "143",
+               "name": "IT\uAD6C\uB77C -- \uC7AC\uBC29\uB2F7\uCEF4 & \uCCB4\uB9AC\uB9C1\uD06C - \uBD84\uB9AC\uC6B4\uC601\uD558\uACE0 \uC788\uAD70\uC694",
+               "type": "url",
+               "url": "http://itgura.tistory.com/2521"
+            }, {
+               "date_added": "13021412345966495",
+               "id": "144",
+               "name": "Bitsnoop P2P Search - 20.3 Million Valid Torrents",
+               "type": "url",
+               "url": "http://bitsnoop.com/"
+            }, {
+               "date_added": "13015950911355730",
+               "id": "145",
+               "name": "\uD30C\uC77C\uD2F0\uBE44",
+               "type": "url",
+               "url": "http://filetv.net/search.php?keyword=%C7%D1%B1%DB"
+            } ],
+            "date_added": "13022523262558277",
+            "date_modified": "13022523262580277",
+            "id": "9",
+            "name": "\uD1A0\uB80C\uD2B8",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13022523262577277",
+               "id": "126",
+               "name": "\uC571\uCC3D\uC791\uD130",
+               "type": "url",
+               "url": "http://appcenter.chonbuk.ac.kr/xe/?mid=notice&document_srl=32784"
+            }, {
+               "date_added": "13015950911353730",
+               "id": "127",
+               "name": "db\uD504\uB85C\uADF8\uB798\uBC0D",
+               "type": "url",
+               "url": "http://www.khub.ac.kr/sns/main.jsp"
+            }, {
+               "date_added": "13022523262578277",
+               "id": "128",
+               "name": "\uC804\uB77C\uBD81\uB3C4 \uC778\uC7AC\uC721\uC131\uC7AC\uB2E8",
+               "type": "url",
+               "url": "http://www.jbdream.or.kr/"
+            }, {
+               "date_added": "13022523262578277",
+               "id": "129",
+               "name": "\uC6F9\uD504\uB85C\uADF8\uB798\uBC0D",
+               "type": "url",
+               "url": "http://eilinux.jbnu.ac.kr/~hlee/web/web13.htm"
+            }, {
+               "date_added": "13015950911353730",
+               "id": "130",
+               "name": "\uD050\uBE0C\uB9AC\uB4DC \uACF5\uBD80\uD558\uAE30",
+               "type": "url",
+               "url": "http://cafe.naver.com/studycubrid.cafe"
+            }, {
+               "date_added": "13015950911354730",
+               "id": "131",
+               "name": "\uD050\uBE0C\uB9AC\uB4DC - \uAD50\uC721\uC790\uB8CC",
+               "type": "url",
+               "url": "http://www.cubrid.com/zbxe/bbs_developer_material"
+            }, {
+               "date_added": "13022523262579277",
+               "id": "132",
+               "name": "\uB9AC\uD2B8\uBA38\uC2A4",
+               "type": "url",
+               "url": "http://litmus.jbnu.ac.kr/web/exam.php"
+            }, {
+               "date_added": "13015950911354730",
+               "id": "133",
+               "name": "\uC804\uBD81\uB300\uD559\uAD50 \uAD50\uC591\uB2E8\uC18C",
+               "type": "url",
+               "url": "http://cafe.naver.com/jbnu"
+            }, {
+               "date_added": "13015950911354730",
+               "id": "134",
+               "name": "\uBD81\uB300\uC0DD \uACFC\uC81C",
+               "type": "url",
+               "url": "http://blog.naver.com/chy5948"
+            }, {
+               "children": [ {
+                  "date_added": "13015950911355730",
+                  "id": "139",
+                  "name": "\uB2E4\uC775\uC2A4\uD2B8\uB77C \uC54C\uACE0\uB9AC\uC998",
+                  "type": "url",
+                  "url": "http://www.youtube.com/watch?v=8Ls1RqHCOPw&feature=related"
+               }, {
+                  "date_added": "13022523262579277",
+                  "id": "140",
+                  "name": "\uB9AC\uD2B8\uBA38\uC2A4 input/output \uC54C\uC544\uBCF4\uAE30output\uC740 \uC8FC\uC18C\uC5D0 output",
+                  "type": "url",
+                  "url": "http://litmus.jbnu.ac.kr/problem/input/10761"
+               }, {
+                  "date_added": "13015950911356730",
+                  "id": "141",
+                  "name": "\uC54C\uACE0\uB9AC\uC998",
+                  "type": "url",
+                  "url": "http://cv.jbnu.ac.kr/~isoh/wiki/doku.php?id=%EA%B0%95%EC%9D%98:2013_1:algorithm_13"
+               }, {
+                  "date_added": "13014898649050759",
+                  "id": "142",
+                  "name": "\uB9AC\uD2B8\uBA38\uC2A4 input/output \uC54C\uC544\uBCF4\uAE30output\uC740 \uC8FC\uC18C\uC5D0 output ",
+                  "type": "url",
+                  "url": "http://litmus.jbnu.ac.kr/problem/input/10761"
+               } ],
+               "date_added": "13022523262579277",
+               "date_modified": "13022523262579277",
+               "id": "135",
+               "name": "\uC54C\uACE0\uB9AC\uC998",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13015791768383893",
+                  "id": "137",
+                  "name": "\uC6B4\uC601\uCCB4\uC81C \uACFC\uBAA9\uC815\uB9AC",
+                  "type": "url",
+                  "url": "http://darkptw.tistory.com/46"
+               }, {
+                  "date_added": "13015836450774151",
+                  "id": "138",
+                  "name": "\uC6B4\uC601\uCCB4\uC81C_\uAE30\uB9D0\uACE0\uC0AC\uB300\uBE44\uC871\uBCF4(7\uC7A5 ~10\uC7A5)",
+                  "type": "url",
+                  "url": "http://www.hansung.ac.kr/web/os/510665?p_p_id=EXT_BBS&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_EXT_BBS_struts_action=%2Fext%2Fbbs%2Fview_message&_EXT_BBS_sCategory=&_EXT_BBS_sKeyType=&_EXT_BBS_sKeyword=&_EXT_BBS_curPage=9&_EXT_BBS_messageId=222271"
+               } ],
+               "date_added": "13016205961076980",
+               "date_modified": "13022523262579277",
+               "id": "136",
+               "name": "\uC6B4\uC601\uCCB4\uC81C",
+               "type": "folder"
+            } ],
+            "date_added": "13022523262559277",
+            "date_modified": "13022523262579277",
+            "id": "10",
+            "name": "\uC218\uC5C5",
+            "type": "folder"
+         }, {
+            "date_added": "13015950909096730",
+            "id": "11",
+            "name": "\uC548\uB4DC\uB85C\uC774\uB4DC \uD38D",
+            "type": "url",
+            "url": "http://www.androidpub.com/android_dev_qna"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13022523262577277",
+                     "id": "124",
+                     "name": "\uC790\uB3D9\uC644\uC131\uD14D\uC2A4\uD2B8\uBDF0(AutoCompleteTextView) \uAD6C\uD604\uD558\uAE30",
+                     "type": "url",
+                     "url": "http://moozi.tistory.com/47"
+                  }, {
+                     "date_added": "13022523262577277",
+                     "id": "125",
+                     "name": "autocompletetextview\uBCC0\uD615",
+                     "type": "url",
+                     "url": "http://mapagilove.tistory.com/172"
+                  } ],
+                  "date_added": "13022523262568277",
+                  "date_modified": "13022523262577277",
+                  "id": "70",
+                  "name": "Edittext",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13015950911363730",
+                     "id": "123",
+                     "name": "android.view.InflateException: Binary XML file line # \uC22B\uC790",
+                     "type": "url",
+                     "url": "http://blog.naver.com/chasw12?Redirect=Log&logNo=80182715987"
+                  } ],
+                  "date_added": "13022523262568277",
+                  "date_modified": "13022523262568277",
+                  "id": "71",
+                  "name": "Error",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13022523262575277",
+                     "id": "108",
+                     "name": "Background \uACE0\uC815\uC2DC\uD0A4\uAE30",
+                     "type": "url",
+                     "url": "http://caliou.tistory.com/19"
+                  }, {
+                     "date_added": "13015950911363730",
+                     "id": "109",
+                     "name": "background \uD22C\uBA85\uD558\uAC8C",
+                     "type": "url",
+                     "url": "http://blog.naver.com/burin?Redirect=Log&logNo=40164730534"
+                  }, {
+                     "date_added": "13022523262575277",
+                     "id": "110",
+                     "name": "Button\uD074\uB9AD \uC774\uBCA4\uD2B8",
+                     "type": "url",
+                     "url": "http://necos.tistory.com/41"
+                  }, {
+                     "date_added": "13015950911364730",
+                     "id": "111",
+                     "name": "CheckBox \uC774\uBBF8\uC9C0 \uBCC0\uACBD",
+                     "type": "url",
+                     "url": "http://blog.naver.com/free2824?Redirect=Log&logNo=60102129045"
+                  }, {
+                     "date_added": "13022523262575277",
+                     "id": "112",
+                     "name": "custom ListView \uAFB8\uBBF8\uAE30, \uC5EC\uB7EC\uC885\uB958",
+                     "type": "url",
+                     "url": "http://androiddeveloper.tistory.com/73"
+                  }, {
+                     "date_added": "13015950911364730",
+                     "id": "113",
+                     "name": "custom ListView \uB2E4\uC591\uD55C \uC751\uC6A9",
+                     "type": "url",
+                     "url": "http://kandroid.wordpress.com/2011/05/26/listview-part-2-display-list-item-with-custom-style/"
+                  }, {
+                     "date_added": "13022523262576277",
+                     "id": "114",
+                     "name": "ImageView \uB85C\uCEEC\uD30C\uC77C\uC5D0\uC11C \uC77D\uC5B4 \uB4E4\uC774\uACE0 \uC800\uC7A5\uD558\uB294 \uBC29\uBC95",
+                     "type": "url",
+                     "url": "http://hyungsok7.tistory.com/12"
+                  }, {
+                     "date_added": "13022523262576277",
+                     "id": "115",
+                     "name": "TitleBar \uC5C6\uC560\uAE30",
+                     "type": "url",
+                     "url": "http://jwandroid.tistory.com/66"
+                  }, {
+                     "date_added": "13015950911365730",
+                     "id": "116",
+                     "name": "\uBC84\uD2BC\uC774 \uB2F4\uAE34 \uB9AC\uC2A4\uD2B8\uBDF0",
+                     "type": "url",
+                     "url": "http://blog.babukuma.com/2010/01/android-listviewbutton.html"
+                  }, {
+                     "date_added": "13015950911366730",
+                     "id": "117",
+                     "name": "ListView\uC5D0 Text2\uAC1C Button1 .. :: \uB124\uC774\uBC84\uBE14\uB85C\uADF8",
+                     "type": "url",
+                     "url": "http://blog.naver.com/newefgold777?Redirect=Log&logNo=90105900239"
+                  }, {
+                     "date_added": "13015950911366730",
+                     "id": "118",
+                     "name": "ListView + ArrayList \uC81C\uC791",
+                     "type": "url",
+                     "url": "http://blog.naver.com/jbin_k?Redirect=Log&logNo=130124849269"
+                  }, {
+                     "date_added": "13022523262576277",
+                     "id": "119",
+                     "name": "listView \uAC12 \uCD94\uAC00\uD558\uAE30",
+                     "type": "url",
+                     "url": "http://installed.tistory.com/72"
+                  }, {
+                     "date_added": "13015950911366730",
+                     "id": "120",
+                     "name": "edittext \uC790\uB3D9\uC644\uC131",
+                     "type": "url",
+                     "url": "http://www.pocketmagic.net/2011/03/android-contacts-a-simple-contact-selector/#.UPvUex3NKyw"
+                  }, {
+                     "date_added": "13015950911367730",
+                     "id": "121",
+                     "name": "\uC544\uC774\uC2A4\uD0C0\uC77C24",
+                     "type": "url",
+                     "url": "http://www.istyle24.com/Display/ProductDetail.aspx?ProductNo=1525506&_C_=5584844&cid=naver&NaPm=ct%3dhhgifj80%7cci%3d80a8df63de47619669962ccb3886424d2479794a%7ctr%3dslsl%7csn%3d7712%7cic%3d%7chk%3d916dcd919350e5e8d2d2505cf33a5c457af05cab"
+                  }, {
+                     "date_added": "13015950911367730",
+                     "id": "122",
+                     "name": "[JSP]\uCE98\uB9B0\uB354 \uC608\uC81C",
+                     "type": "url",
+                     "url": "http://blog.daum.net/atw19/4"
+                  } ],
+                  "date_added": "13022523262568277",
+                  "date_modified": "13022523262576277",
+                  "id": "72",
+                  "name": "Layout",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13015950911367730",
+                     "id": "106",
+                     "name": "\uAD6C\uAE00\uB9F5 Android API v2 \uC608\uC81C",
+                     "type": "url",
+                     "url": "http://www.vogella.com/articles/AndroidGoogleMaps/article.html#maps_mapsview"
+                  }, {
+                     "date_added": "13015950911368730",
+                     "id": "107",
+                     "name": "\uAD6C\uAE00\uB9F5 API v2 \uC0AC\uC6A9\uD558\uAE30",
+                     "type": "url",
+                     "url": "http://androidhuman.tistory.com/entry/Google-Maps-Android-API-v2-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0"
+                  } ],
+                  "date_added": "13022523262568277",
+                  "date_modified": "13022523262568277",
+                  "id": "73",
+                  "name": "Map",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13015950911368730",
+                     "id": "103",
+                     "name": "searchview \uC544\uC774\uCF58 \uB418\uB3CC\uB9AC\uAE30",
+                     "type": "url",
+                     "url": "http://www.androidpub.com/2393664"
+                  }, {
+                     "date_added": "13022523262574277",
+                     "id": "104",
+                     "name": "SearchView\uB9CC\uB4E4\uAE30",
+                     "type": "url",
+                     "url": "http://unikys.tistory.com/209"
+                  }, {
+                     "date_added": "13015950911368730",
+                     "id": "105",
+                     "name": "\uCFE0\uD321! | [\uBB34\uB8CC\uBC30\uC1A1]Maximus \uC5EC\uB984 \uC2E0\uC0C1 \uC2AC\uB9BC\uD54F \uC2A4\uD310 \uC154\uCE20\uBAA8\uC74C~4XL",
+                     "type": "url",
+                     "url": "http://www.coupang.com/deal.pang?coupang=36818350&cateCode=BAB01"
+                  } ],
+                  "date_added": "13022523262568277",
+                  "date_modified": "13022523262574277",
+                  "id": "74",
+                  "name": "SearchView",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13015950911369730",
+                     "id": "102",
+                     "name": "android\uC628\uB77C\uC778\uAD50\uC721",
+                     "type": "url",
+                     "url": "http://www.androidside.com/bbs/board.php?bo_table=810"
+                  } ],
+                  "date_added": "13022523262568277",
+                  "date_modified": "13022523262568277",
+                  "id": "75",
+                  "name": "\uAD50\uC721",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13022523262573277",
+                     "id": "101",
+                     "name": "\uC548\uB4DC\uB85C\uC774\uB4DC\uC790\uACA9\uC99D.\uD55C\uAD6D\uC815\uBCF4\uD1B5\uC2E0\uC790\uACA9\uD611\uD68C",
+                     "type": "url",
+                     "url": "http://www.icqa.or.kr/helpdesk/noticev.aspx?idx=196"
+                  } ],
+                  "date_added": "13022523262568277",
+                  "date_modified": "13022523262573277",
+                  "id": "76",
+                  "name": "\uC815\uBCF4",
+                  "type": "folder"
+               }, {
+                  "date_added": "13015950911356730",
+                  "id": "77",
+                  "name": "\u2605\u2605\uB2E4\uC591\uD55C \uBAA8\uB4E0\uAC83",
+                  "type": "url",
+                  "url": "http://xjaphx.wordpress.com/learning/tutorials/"
+               }, {
+                  "date_added": "13015950911356730",
+                  "id": "78",
+                  "name": "API\uB808\uBCA8 \uBCC0\uACBD\uBC29\uBC95",
+                  "type": "url",
+                  "url": "http://www.cyworld.com/talkingtojju/3754483"
+               }, {
+                  "date_added": "13022523262568277",
+                  "id": "79",
+                  "name": "App \uC774\uB984 \uBCC0\uACBD",
+                  "type": "url",
+                  "url": "http://chobbang.com/16"
+               }, {
+                  "date_added": "13015950911357730",
+                  "id": "80",
+                  "name": "camera\uAE30\uB2A5. \uCC0D\uC740\uC0AC\uC9C4 \uC774\uBBF8\uC9C0\uBDF0\uB85C \uBCF4\uC5EC\uC90C",
+                  "type": "url",
+                  "url": "http://blog.daum.net/bugking88/164"
+               }, {
+                  "date_added": "13015950911357730",
+                  "id": "81",
+                  "name": "Handler",
+                  "type": "url",
+                  "url": "http://netrance.blog.me/110130381060"
+               }, {
+                  "date_added": "13015950911357730",
+                  "id": "82",
+                  "name": "ImageFilter \uC624\uD508\uC18C\uC2A4",
+                  "type": "url",
+                  "url": "https://code.google.com/p/android-jhlabs/"
+               }, {
+                  "date_added": "13022523262569277",
+                  "id": "83",
+                  "name": "Insert title here",
+                  "type": "url",
+                  "url": "http://hitit.chonbuk.ac.kr:8080/kangwy/Project/top_test.html"
+               }, {
+                  "date_added": "13015950911358730",
+                  "id": "84",
+                  "name": "\uB124\uD2B8\uC6CC\uD06C \uC624\uB958\uAC00 \uC788\uC744\uB54C",
+                  "type": "url",
+                  "url": "http://wlswy00.blog.me/40167187526"
+               }, {
+                  "date_added": "13015950911358730",
+                  "id": "85",
+                  "name": "\uC548\uB4DC\uB85C\uC774\uB4DC \uC774\uBBF8\uC9C0 \uD30C\uC2F1 - Google \uAC80\uC0C9",
+                  "type": "url",
+                  "url": "https://www.google.co.kr/search?hl=ko&newwindow=1&sclient=psy-ab&q=change+auto+android+icon&oq=change+auto+android+icon&gs_l=hp.3...4280.9651.3.9904.7.7.0.0.0.2.360.2005.3-6.6.0...0.0...1c.1.6.psy-ab.4MA3HwkHnEo&pbx=1&biw=1080&bih=1715&cad=b&cad=cbv&sei=vopEUdfSK4TwrQGc84DoDg#hl=ko&newwindow=1&sclient=psy-ab&q=%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C+%EC%9D%B4%EB%AF%B8%EC%A7%80+%ED%8C%8C%EC%8B%B1&oq=%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C+%EC%9D%B4%EB%AF%B8%EC%A7%80+%ED%8C%8C%EC%8B%B1&gs_l=serp.3..0j0i8i30l2.2366620.2366620.0.2369270.1.1.0.0.0.0.1130.1130.7-1.1.0...0.0...1c.1.6.psy-ab.BTnDEu900m8&pbx=1&bav=on.2,or.r_cp.r_qf.&bvm=bv.43828540,d.aWM&fp=6d80469edb84c3a&biw=1080&bih=1715"
+               }, {
+                  "date_added": "13022523262570277",
+                  "id": "86",
+                  "name": "\uAC1C\uBC1C\uC790\uBAA8\uC784",
+                  "type": "url",
+                  "url": "http://www.tipssoft.com/bulletin/board.php?bo_table=FAQ&wr_id=978"
+               }, {
+                  "date_added": "13022523262570277",
+                  "id": "87",
+                  "name": "\uAC04\uACB0\uD55C \uBC84\uD2BC\uD074\uB9AD",
+                  "type": "url",
+                  "url": "http://androiddeveloper.tistory.com/47"
+               }, {
+                  "date_added": "13015950911359730",
+                  "id": "88",
+                  "name": "\uBC31\uD0A4 \uB450 \uBC88 \uB20C\uB7EC \uC5B4\uD50C \uC885\uB8CC",
+                  "type": "url",
+                  "url": "http://hyvaa.tistory.com/97"
+               }, {
+                  "date_added": "13015950911359730",
+                  "id": "89",
+                  "name": "Intro \uD654\uBA74 \uAD6C\uD604",
+                  "type": "url",
+                  "url": "http://blog.naver.com/PostView.nhn?blogId=joonchi3&logNo=100112199825&redirect=Dlog&widgetTypeCall=true"
+               }, {
+                  "date_added": "13015950911359730",
+                  "id": "90",
+                  "name": "Intro(\uC2DC\uC791)\uD654\uBA74 \uBCC0\uACBD\uD558\uB294\uBC95",
+                  "type": "url",
+                  "url": "http://www.androidpub.com/?_filter=search&mid=android_dev_qna&search_target=nick_name&search_keyword=%EC%95%84%EC%9D%B4%EB%9D%BC%EC%9D%B4&document_srl=2428497&comment_srl=2428678&rnd=2429544#comment_2429544"
+               }, {
+                  "date_added": "13015950911360730",
+                  "id": "91",
+                  "name": "SQLite \uB370\uC774\uD130\uBCA0\uC774\uC2A4 \uC774\uC6A9\uD558\uAE30 -Pulse-Beat's Bits-Box [0010 0000 0001 0001]-",
+                  "type": "url",
+                  "url": "http://pulsebeat.tistory.com/15"
+               }, {
+                  "date_added": "13015950911360730",
+                  "id": "92",
+                  "name": "\uC624\uD508\uC18C\uC2A4 \uAC80\uC0C9\uAE30",
+                  "type": "url",
+                  "url": "https://github.com/search"
+               }, {
+                  "date_added": "13015950911360730",
+                  "id": "93",
+                  "name": "\uC6F9 \uC774\uBBF8\uC9C0 \uCD9C\uB825",
+                  "type": "url",
+                  "url": "http://blog.daum.net/malcolmx/18109327"
+               }, {
+                  "date_added": "13022523262572277",
+                  "id": "94",
+                  "name": "\uC6F9\uBDF0\uB85C \uC6F9\uC774\uBBF8\uC9C0 \uBD88\uB7EC\uC624\uAE30",
+                  "type": "url",
+                  "url": "http://itgury.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-WebView-%EB%A1%9C-%EC%A0%95%EB%A7%90-%EA%B0%84%EB%8B%A8%ED%9E%88-%EC%9B%B9-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0-%EC%98%88%EC%A0%9C"
+               }, {
+                  "date_added": "13018127140984154",
+                  "id": "95",
+                  "name": "[\uC548\uB4DC\uB85C\uC774\uB4DC] android.os.NetworkOnMainThreadException \uC624\uB958",
+                  "type": "url",
+                  "url": "http://diyall.tistory.com/828"
+               }, {
+                  "date_added": "13018378672748678",
+                  "id": "96",
+                  "name": "AdapterView.onItemClickListener \uC0AC\uC6A9\uBC95",
+                  "type": "url",
+                  "url": "http://arabiannight.tistory.com/87"
+               }, {
+                  "date_added": "13018549284591573",
+                  "id": "97",
+                  "name": "ListView OnItemClick \uC791\uB3D9\uC5D0\uB7EC",
+                  "type": "url",
+                  "url": "http://www.cyworld.com/konsanchi/4691309"
+               }, {
+                  "date_added": "13019016345584619",
+                  "id": "98",
+                  "name": "ProgressBar \uC640 ProgressDialog : \uC124\uBA85\uC774 \uC798 \uB418\uC5B4\uC788\uC74C",
+                  "type": "url",
+                  "url": "http://blog.naver.com/PostView.nhn?blogId=mauveman&logNo=90120880266"
+               }, {
+                  "date_added": "13019830899206129",
+                  "id": "99",
+                  "name": "getBaseContext()\uC640 getApplicationContext() \uCC28\uC774\uC810",
+                  "type": "url",
+                  "url": "http://liketh.tistory.com/entry/getBaseContext%EC%99%80-getApplicationContext-%EC%B0%A8%EC%9D%B4%EC%A0%90"
+               }, {
+                  "date_added": "13019927487827596",
+                  "id": "100",
+                  "name": "\uC778\uD130\uB137(\uB124\uD2B8\uC6CC\uD06C) \uC5F0\uACB0\uC0C1\uD0DC \uD655\uC778",
+                  "type": "url",
+                  "url": "http://roter.pe.kr/216"
+               } ],
+               "date_added": "13022523262563277",
+               "date_modified": "13022523262572277",
+               "id": "25",
+               "name": "android",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13022523262567277",
+                  "id": "67",
+                  "name": "eclipse Web\uD50C\uB7EC\uADF8\uC778[Aptana]",
+                  "type": "url",
+                  "url": "http://osebin.tistory.com/27"
+               }, {
+                  "date_added": "13015950911361730",
+                  "id": "68",
+                  "name": "Eclipse Color Themes",
+                  "type": "url",
+                  "url": "http://eclipsecolorthemes.org/"
+               }, {
+                  "date_added": "13018121992580478",
+                  "id": "69",
+                  "name": "System.out.println\uC758 \uB2E8\uCD95\uC5B4",
+                  "type": "url",
+                  "url": "http://blog.naver.com/crescent702/30171799640"
+               } ],
+               "date_added": "13022523262563277",
+               "date_modified": "13022523262567277",
+               "id": "26",
+               "name": "Eclilpse",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13015950911361730",
+                  "id": "59",
+                  "name": "\uB9C8\uC6B0\uC2A4\uC624\uBC84",
+                  "type": "url",
+                  "url": "http://blog.naver.com/paraevil?Redirect=Log&logNo=70033690622"
+               }, {
+                  "date_added": "13018164077114548",
+                  "id": "60",
+                  "name": "Jsoup \uC608\uC81C",
+                  "type": "url",
+                  "url": "http://xjaphx.wordpress.com/2012/02/04/android-xml-adventure-parsing-html-using-jsoup/"
+               }, {
+                  "children": [ {
+                     "date_added": "13015950911369730",
+                     "id": "64",
+                     "name": "JSP \uAC15\uC758",
+                     "type": "url",
+                     "url": "http://www.okjsp.net/bbs?act=FIRST_MAIN"
+                  }, {
+                     "date_added": "13022523262567277",
+                     "id": "65",
+                     "name": "\uC608\uC81C \uB2E4\uC6B4\uB4E4",
+                     "type": "url",
+                     "url": "http://www.gnujava.com/board/article_list.jsp?page_no=10&menu_cd=16&board_no=3&table_no=01&table_cd=EPAR01"
+                  }, {
+                     "date_added": "13016290532901003",
+                     "id": "66",
+                     "name": "keycode/\uD0A4\uAC12",
+                     "type": "url",
+                     "url": "http://winmargo.tistory.com/52"
+                  } ],
+                  "date_added": "13022523262567277",
+                  "date_modified": "13022523262567277",
+                  "id": "61",
+                  "name": "JSP",
+                  "type": "folder"
+               }, {
+                  "date_added": "13015950911361730",
+                  "id": "62",
+                  "name": "CSS \uC0AC\uC804",
+                  "type": "url",
+                  "url": "http://opentutorials.org/module/441"
+               }, {
+                  "date_added": "13015950911362730",
+                  "id": "63",
+                  "name": "marquee \uD0DC\uADF8",
+                  "type": "url",
+                  "url": "http://cafe.naver.com/dreammons/24969"
+               } ],
+               "date_added": "13022523262563277",
+               "date_modified": "13022523262563277",
+               "id": "27",
+               "name": "Web",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13022523262566277",
+                  "id": "57",
+                  "name": "\uC6B4\uC601\uCCB4\uC81C \uAD00\uB828",
+                  "type": "url",
+                  "url": "http://www.joinc.co.kr/modules/moniwiki/wiki.php/FrontPage"
+               }, {
+                  "date_added": "13015950911362730",
+                  "id": "58",
+                  "name": "fork() \uD568\uC218",
+                  "type": "url",
+                  "url": "http://thdev.net/m/post/view/id/176"
+               } ],
+               "date_added": "13022523262563277",
+               "date_modified": "13022523262566277",
+               "id": "28",
+               "name": "\uC720\uB2C9\uC2A4",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13017984372866346",
+                  "id": "52",
+                  "name": "\uD504\uB85C\uADF8\uB7A8 \uC2E4\uD589\uC2DC\uAC04",
+                  "type": "url",
+                  "url": "http://blog.naver.com/sylphjm?Redirect=Log&logNo=130035502736"
+               }, {
+                  "date_added": "13018003329957890",
+                  "id": "53",
+                  "name": "java split,\uBB38\uC790\uC5F4 \uB098\uB204\uAE30",
+                  "type": "url",
+                  "url": "http://kin.naver.com/qna/detail.nhn?d1id=1&dirId=1040201&docId=174298940&qb=c3BsaXQ=&enc=utf8&section=kin&rank=1&search_sort=0&spq=1&pid=ROHEeU5Y7t0sssGYHy0sssssst4-112996&sid=Ud5mRXJvLB0AAA4v3lw"
+               }, {
+                  "date_added": "13018255626396346",
+                  "id": "54",
+                  "name": "String \uD55C\uAE00\uC744 url\uC5D0 \uB9DE\uAC8C \uC778\uCF54\uB529",
+                  "type": "url",
+                  "url": "http://unikys.tistory.com/195"
+               }, {
+                  "date_added": "13018636610027884",
+                  "id": "55",
+                  "name": "\uBB38\uC790\uC5F4 \uCC3E\uAE30, \uB2E8\uC5B4 \uCC3E\uAE30, matches",
+                  "type": "url",
+                  "url": "http://blog.naver.com/magiindex?Redirect=Log&logNo=60164119234"
+               }, {
+                  "date_added": "13019672993264272",
+                  "id": "56",
+                  "name": "map. key\uC640 value\uB85C \uAD6C\uC131\uB41C.",
+                  "type": "url",
+                  "url": "http://arabiannight.tistory.com/entry/%EC%9E%90%EB%B0%94Java-%EC%9E%90%EB%B0%94-HashMap-%EC%9D%B4%EB%9E%80"
+               } ],
+               "date_added": "13017984410555778",
+               "date_modified": "13022523262563277",
+               "id": "29",
+               "name": "JAVA",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13017651295603019",
+                  "id": "40",
+                  "name": "\uC720\uB2C8\uD2F0 \uCF54\uB9AC\uC544",
+                  "type": "url",
+                  "url": "http://korea.unity3d.com/board/?page=3&db=unitygame"
+               }, {
+                  "date_added": "13018985683118243",
+                  "id": "41",
+                  "name": "\uC548\uB4DC\uB85C\uC774\uB4DC \uAC00\uC0C1\uBA38\uC2E0(\uC774\uD074\uB9BD\uC2A4)\uC5D0 \uC5F0\uB3D9\uC2DC\uCF1C \uC2E4\uD589(\uD3EC\uD305)",
+                  "type": "url",
+                  "url": "http://blog.naver.com/PostView.nhn?blogId=tobik&logNo=50144814042"
+               }, {
+                  "date_added": "13018985709198243",
+                  "id": "42",
+                  "name": "\uC774\uD074\uB9BD\uC2A4 \uC5F0\uB3D9 \uD55C\uBC29\uC5D0 \uB05D\uB0B4\uBCF4\uC790. 1/2, \uBA54\uC2DC\uC9C0\uC785\uB825",
+                  "type": "url",
+                  "url": "http://www.wolfpack.pe.kr/824"
+               }, {
+                  "date_added": "13019299153741085",
+                  "id": "43",
+                  "name": "2D \uC560\uB2C8\uBA54\uC774\uC158 \uC81C\uC791",
+                  "type": "url",
+                  "url": "http://blog.naver.com/seilius?Redirect=Log&logNo=130172494897&jumpingVid=57CF03914805FC1F9743693FC12A4E395EB3"
+               }, {
+                  "date_added": "13019396991976321",
+                  "id": "44",
+                  "name": "\uB9C8\uC6B0\uC2A4 \uD074\uB9AD \uC6C0\uC9C1\uC784",
+                  "type": "url",
+                  "url": "http://korea.unity3d.com/board/?db=qnalist&no=481&mari_mode=view@view"
+               }, {
+                  "date_added": "13020370199307816",
+                  "id": "45",
+                  "name": "\uB2E4\uB978 \uC624\uBE0C\uC81D\uD2B8 \uAC12\uC5D0 \uC811\uADFC",
+                  "type": "url",
+                  "url": "http://www.devkorea.co.kr/bbs/board.php?bo_table=m03_qna&wr_id=31842"
+               }, {
+                  "date_added": "13020505471423689",
+                  "id": "46",
+                  "name": "\uD55C\uAE00\uC8FC\uC11D\uB2EC\uAE30",
+                  "type": "url",
+                  "url": "http://blog.naver.com/higesan?Redirect=Log&logNo=80156356737"
+               }, {
+                  "date_added": "13021042981566096",
+                  "id": "47",
+                  "name": "\uBAA8\uBC14\uC77C \uAE30\uAE30\uBCC4 \uD654\uBA74 \uD574\uC0C1\uB3C4\uC124\uC815",
+                  "type": "url",
+                  "url": "http://unitystudy.net/bbs/board.php?bo_table=tip&wr_id=4"
+               }, {
+                  "date_added": "13021193051860055",
+                  "id": "48",
+                  "name": "\uBAA8\uBC14\uC77C \uD130\uCE58\uAC12 \uBC1B\uAE30",
+                  "type": "url",
+                  "url": "http://cafe.naver.com/xgdn/6342"
+               }, {
+                  "date_added": "13021216013945663",
+                  "id": "49",
+                  "name": "\uD130\uCE58\uAE30\uB2A5",
+                  "type": "url",
+                  "url": "http://www.devkorea.co.kr/reference/Documentation/ScriptReference/Input.GetTouch.html"
+               }, {
+                  "date_added": "13021217688117415",
+                  "id": "50",
+                  "name": "Reference",
+                  "type": "url",
+                  "url": "http://www.devkorea.co.kr/reference/Documentation/ScriptReference/index.html"
+               }, {
+                  "date_added": "13021492696542346",
+                  "id": "51",
+                  "name": "\uCD08\uAC04\uB2E8 NGUI - 2",
+                  "type": "url",
+                  "url": "http://www.unitystudy.net/bbs/board.php?bo_table=writings&wr_id=85"
+               } ],
+               "date_added": "13018985672340243",
+               "date_modified": "13022523262563277",
+               "id": "30",
+               "name": "\uC720\uB2C8\uD2F0",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13019498363826507",
+                  "id": "38",
+                  "name": "C# \uBB38\uC790\uC5F4 \uCC3E\uAE30 \uB2E4\uB8E8\uAE30, split",
+                  "type": "url",
+                  "url": "http://colyfafa.tistory.com/19"
+               }, {
+                  "date_added": "13019500335885607",
+                  "id": "39",
+                  "name": "\uD55C\uAE00 \uC8FC\uC11D\uC5D0\uB7EC",
+                  "type": "url",
+                  "url": "http://westwoodforever.blogspot.kr/2013/06/unity3d-error-cs1525-unexpected-symbol.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+WestwoodForever+(WestWood+Forever)"
+               } ],
+               "date_added": "13019498403566507",
+               "date_modified": "13022523262563277",
+               "id": "31",
+               "name": "C#",
+               "type": "folder"
+            }, {
+               "date_added": "13021786147270953",
+               "id": "32",
+               "name": "\uCF54\uB4DC\uC544\uCE74\uB370\uBBF8",
+               "type": "url",
+               "url": "http://www.codecademy.com/"
+            }, {
+               "date_added": "13021024129706314",
+               "id": "33",
+               "name": "\uCF54\uB4DC\uC815\uB9AC",
+               "type": "url",
+               "url": "http://prettydiff.com/?m=beautify"
+            }, {
+               "children": [ {
+                  "date_added": "13015950911358730",
+                  "id": "35",
+                  "name": "\uC544\uC774\uCF58 \uAC80\uC0C9",
+                  "type": "url",
+                  "url": "http://www.iconfinder.com/"
+               }, {
+                  "date_added": "13021965851449553",
+                  "id": "36",
+                  "name": "\uC560\uB2C8\uBA54\uC774\uC158 \uC0AC\uC774\uD2B8",
+                  "type": "url",
+                  "url": "http://mrbubblewand.wordpress.com/category/animations/"
+               }, {
+                  "date_added": "13019833624642481",
+                  "id": "37",
+                  "name": "\uACF5\uC720\uB9C8\uB2F9 - \uACF5\uC720\uC800\uC791\uBB3C.\uC800\uC791\uAD8C free",
+                  "type": "url",
+                  "url": "http://gongu.copyright.or.kr/index.do"
+               } ],
+               "date_added": "13021965906319986",
+               "date_modified": "13022523262563277",
+               "id": "34",
+               "name": "Useful",
+               "type": "folder"
+            } ],
+            "date_added": "13022523262559277",
+            "date_modified": "13022523262559277",
+            "id": "12",
+            "name": "Develop",
+            "type": "folder"
+         }, {
+            "date_added": "13015950909099730",
+            "id": "13",
+            "name": "\uAC1C\uBC1C\uC790 \uCF58\uC194",
+            "type": "url",
+            "url": "https://play.google.com/apps/publish/?dev_acc=05545034377000067270"
+         }, {
+            "date_added": "13022523262560277",
+            "id": "14",
+            "name": "\uC0C1\uC0C1Univ",
+            "type": "url",
+            "url": "http://cafe.sangsanguniv.com/cafe/club/personalClubMain.vw?clubId=jeonbuk"
+         }, {
+            "date_added": "13015950909102730",
+            "id": "15",
+            "name": "\uC804\uC8FCMBC \uAE40\uC608\uC194 \uC544\uB098\uC6B4\uC11C",
+            "type": "url",
+            "url": "http://cafe.naver.com/jmbcyesol.cafe"
+         }, {
+            "date_added": "13015950909113730",
+            "id": "16",
+            "name": "\uC5EC\uB984 \uB0A8\uC790 \uCF54\uB514 \uD2B8\uB80C\uB4DC / \uC5EC\uB984 \uCF54\uB514/ \uC5EC\uB984\uC154.. :: \uB124\uC774\uBC84\uBE14\uB85C\uADF8",
+            "type": "url",
+            "url": "http://blog.naver.com/feel2269?Redirect=Log&logNo=40189411372"
+         }, {
+            "date_added": "13022523262561277",
+            "id": "17",
+            "name": "ajax\uB97C \uC774\uC6A9\uD55C \uCC44\uD305[\uC9C8\uBB38]",
+            "type": "url",
+            "url": "http://micropilot.tistory.com/1721"
+         }, {
+            "date_added": "13015950909120730",
+            "id": "18",
+            "name": "\uCC44\uD305\uC0C1\uC138\uC815\uBCF4",
+            "type": "url",
+            "url": "http://www.okjsp.net/bbs?seq=193164"
+         }, {
+            "date_added": "13015950909120730",
+            "id": "19",
+            "name": "Rabin-Karp",
+            "type": "url",
+            "url": "http://blog.naver.com/panelion?Redirect=Log&logNo=130018012298"
+         }, {
+            "date_added": "13015950909120730",
+            "id": "20",
+            "name": "\uBD80\uC11C\uC77C\uC815\uAD00\uB9AC [eGovFrameOpenCommunity]",
+            "type": "url",
+            "url": "http://open.egovframe.go.kr/dokuwiki/wiki/doku.php?id=egovframework:%EB%B6%80%EC%84%9C%EC%9D%BC%EC%A0%95%EA%B4%80%EB%A6%AC"
+         }, {
+            "date_added": "13015950911367730",
+            "id": "21",
+            "name": "\uD328\uC158\uCE74\uD398",
+            "type": "url",
+            "url": "http://cafe.naver.com/dieselmania/"
+         }, {
+            "date_added": "13021190478111937",
+            "id": "22",
+            "name": "\uD3F0\uD2B8\uCC3E\uAE30",
+            "type": "url",
+            "url": "http://www.wowpc.net/font/index.php"
+         }, {
+            "date_added": "13021368242075882",
+            "id": "23",
+            "name": "\uC804\uBD81\uB300\uD559\uAD50\uBCD1\uC6D0 \uC784\uC0C1\uC2DC\uD5D8\uC13C\uD130",
+            "type": "url",
+            "url": "http://www.jbctc.co.kr/"
+         }, {
+            "date_added": "13022022936697685",
+            "id": "24",
+            "name": "\uC2A4\uD0C0\uD2B8\uC5C5 \uCE98\uB9B0\uB354",
+            "type": "url",
+            "url": "http://www.venturesquare.net/calendar"
+         } ],
+         "date_added": "13022523222345810",
+         "date_modified": "13022523262561277",
+         "id": "1",
+         "name": "\uBD81\uB9C8\uD06C\uBC14",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13022523222345810",
+         "date_modified": "0",
+         "id": "2",
+         "name": "\uAE30\uD0C0 \uBD81\uB9C8\uD06C",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13017418264480201",
+            "id": "4",
+            "name": "\uB124\uC774\uBC84 tvcast",
+            "type": "url",
+            "url": "http://m.tvcast.naver.com/v/47345"
+         } ],
+         "date_added": "13022523222345810",
+         "date_modified": "13017418264480201",
+         "id": "3",
+         "name": "\uBAA8\uBC14\uC77C \uBD81\uB9C8\uD06C",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

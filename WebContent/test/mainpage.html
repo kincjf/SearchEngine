@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>jQuery Mobile Application</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet"
+	href="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.css">
+<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script
+	src="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js"></script>
+
+
+<!-- <style type="text/css">
+.titlename {
+	margin: 40px auto;
+	width: 100%;
+	text-align: center;
+	position: auto;
+	font-size: 42px;
+}
+
+.help {
+	margin: 10px auto;
+	width: 18%;
+}
+
+#subtitle {
+	margin: 0px auto;
+	width: 100%;
+	text-align: center;
+	position: auto;
+}
+
+#searchform {
+	margin: 20px auto;
+	text-align: center;
+}
+
+div {
+	text-align: center;
+	margin: 10px;
+}
+
+input {
+	width: 60px;
+	position: center;
+}
+
+#menu {
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 20px;
+	width: 190%;
+	padding: 0;
+	margin: 0;
+}
+
+#menu li {
+	display: inline-block;
+	margin: 5px;
+	color: #000;
+	background: #fff;
+	background: rgba(255, 255, 255, 0.5);
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#menu li.active {
+	background: #666;
+	background: rgba(0, 0, 0, 0.5);
+	color: #fff;
+}
+
+#menu li a {
+	text-decoration: none;
+	color: #000;
+}
+
+#menu li.active a:hover {
+	color: #000;
+}
+
+#menu li:hover {
+	background: rgba(255, 255, 255, 0.8);
+}
+
+#menu li a,#menu li.active a {
+	padding: 7px 16px;
+	display: block;
+}
+
+#menu li.active a {
+	color: #fff;
+}
+</style> -->
+
+</head>
+<body>
+	<div data-role="header" style="overflow: hidden;">
+		<h1>I'm a header</h1>
+		<a href="#" data-icon="gear" class="ui-btn-right">Options</a>
+		<div data-role="navbar">
+			<ul>
+				<li><a href="#">One</a></li>
+				<li><a href="#">Two</a></li>
+				<li><a href="#">Three</a></li>
+			</ul>
+		</div>
+		<!-- /navbar -->
+	</div>
+	<!-- /header -->
+	<!-- begin main page -->
+	<div data-role="page">
+		<!-- <header class="ui-header-fullscreen ui-header-fixed"
+			data-role="header" data-position="fixed" style="overflow: hidden;">
+			<a href="#" data-icon="gear" class="ui-btn-left">add Bookmark</a>
+			<div data-role="navbar">
+				<ul id="menu">
+					<li class="flatbtn"><a
+						href="C:/Users/ljw90_000/Desktop/login.html" id="Login">Login</a></li>
+					<li class="flatbtn"><a
+						href="C:/Users/ljw90_000/Desktop/join.html" id="Join">Join</a></li>
+				</ul>
+			</div>
+		</header> -->
+
+		<div class="content" data-role="content" class="content">
+
+			<div class="ui-grid-b ui-responsive">
+				<div class="ui-block-a"></div>
+
+				<div class="ui-block-b">
+					<div class="titlename">BigPop</div>
+					<br>
+					<p id="subtitle">함께 만드는 검색 서비스</p>
+					<div data-role="controlgroup" data-type="horizontal" class="help">
+						<a data-role="button" data-icon="gear">help</a>
+					</div>
+					<form id="searchform" action="#" method="post">
+						<div data-role="fieldcontain">
+							<a>검색:<a> <input type="search" name="search" id="search" />
+						</div>
+					</form>
+				</div>
+
+				<div class="ui-block-c"></div>
+			</div>
+		</div>
+
+
+		<footer class="ui-footer-fullscreen ui-footer-fixed"
+			data-role="footer" data-fullscreen="true">
+			<h1>Footer</h1>
+		</footer>
+	</div>
+	<!-- end main page -->
+</body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>BigPop - 북마크 기반 검색 시스템 : login page</title>
+</head>
+<body>
+	<!-- Login Form -->
+	<div data-role="page" data-theme="a" id="login_form">
+		<script>
+			$(document).ready(function(e) {
+				$("#login_button").on("click", function() {
+					console.log("click btn");
+					$.mobile.changePage("#indexing_form", {
+						dataUrl : "kincjf",
+						transition : "no",
+						changeHash : false
+					});
+				});
+			});
+		</script>
+		<div data-role="header" data-position="inline">
+			<a href="index.html" data-icon="check" data-theme="c">검색하기</a>
+			<h1>북마크 기반 검색 시스템</h1>
+			<a href="join.html" data-icon="check" data-theme="d">Join</a>
+		</div>
+		<br />
+		<div data-role="content" data-theme="a">
+
+			<a href="#" data-role="button" data-icon="star">로그인이 필요합니다.</a>
+
+			<form id="login_form" action="/SearchEngine/login.mf" method="post">
+				<div data-role="fieldcontain">
+					<label for="ID">ID : </label> <input type="text" name="ID" id="ID"
+						value="" placeholder="ID" />
+				</div>
+				<div data-role="fieldcontain">
+					<label for="PASSWORD">PASSWORD : </label> <input type="text"
+						name="PASSWORD" id="PASSWORD" value="" placeholder="PASSWORD" />
+				</div>
+			</form>
+
+			<a href="#indexing_form" id="login_button" data-role="button"
+				data-theme="c" data-icon="check">Login</a>
+		</div>
+		<br />
+		<footer class="ui-footer-fullscreen ui-footer-fixed"
+			data-role="footer" data-fullscreen="true">
+		<h1>copyright - kimseonho, limjiwoo | 2014.06.25</h1>
+		</footer>
+	</div>
+</body>
+</html>
